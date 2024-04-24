@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antor-arif&label=Profile%20views&color=0e75b6&style=flat" alt="antor-arif" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=antor-arif" alt="antor-arif" /></a> </p>
 
 - 🔭 I’m currently working on [Make Real](htts://makereal.io)
 
