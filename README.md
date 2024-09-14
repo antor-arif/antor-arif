@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Django , Flutter**
 
-- 👨‍💻 All of my projects are available at [https://arifur-portfolio.netlify.app/](https://arifur-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://iamarifur.com/](https://iamarifur.com/)
 
 - 💬 Ask me about **Node.Js , JavaScript**
 
