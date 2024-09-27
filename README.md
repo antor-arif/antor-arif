@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Arifur Rahman</h1>
-<h3 align="center">A passionate Full Stack developer || Backend Specialist || Machine Learning Engineer from Bangladesh</h3>
+<h3 align="center">A passionate Machine Learning Engineer || Full Stack developer || Backend Specialist from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antor-arif&label=Profile%20views&color=0e75b6&style=flat" alt="antor-arif" /> </p>
 
 
 - 🔭 I’m currently working on [Next Level Media](https://nextlevelmedia.com)
 
-- 🌱 I’m currently learning **Django , Flutter**
+- 🌱 I’m currently learning **Django , Flutter** , Python**
 
 - 👨‍💻 All of my projects are available at [https://iamarifur.com/](https://iamarifur.com/)
 
-- 💬 Ask me about **Node.Js , JavaScript**
+- 💬 Ask me about **Node.Js , JavaScript** , Python**
 
 - 📫 How to reach me **arifurrahman.ar10@yahoo.com**
 
