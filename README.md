@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on [Next Level Media](htts://nextlevelmedia.com)
 
-- 🌱 I’m currently learning **Django , Flutter , Deep Learning**
+- 🌱 I’m currently learning **Deep Learning, NLP**
 
 - 👨‍💻 All of my projects are available at [https://iamarifur.com](https://iamarifur.com)
 
 - 💬 Ask me about **Node.Js , JavaScript , Python**
 
-- 📫 How to reach me **arifurrahman.ar10@yahoo.com**
+- 📫 How to reach me **contact@iamarifur.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1wbP_YnURroe6b3xI4kjpVgCvEIXFL8aF/view?usp=drive_link](https://drive.google.com/file/d/1wbP_YnURroe6b3xI4kjpVgCvEIXFL8aF/view?usp=drive_link)
 
