@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **contact@iamarifur.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1wbP_YnURroe6b3xI4kjpVgCvEIXFL8aF/view?usp=drive_link](https://drive.google.com/file/d/1wbP_YnURroe6b3xI4kjpVgCvEIXFL8aF/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1wbP_YnURroe6b3xI4kjpVgCvEIXFL8aF/view?usp=drive_link](https://drive.google.com/file/d/1wbP_YnURroe6b3xI4kjpVgCvEIXFL8aF/view?usp=drive_link](https://drive.google.com/file/d/1UFBR_BpZ9GrqqKHI7mjQC8F2XR8OpfJt/view)
 
 - ⚡ Fun fact **I blend cutting-edge AI technology with custom jewelry design—so whether it's crafting code or creating unique pieces, I'm always shaping something extraordinary!**
 
